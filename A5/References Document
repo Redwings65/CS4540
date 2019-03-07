@@ -1,0 +1,6 @@
+https://www.coursehero.com/file/p7uoes1/c-Pure-paging-Pure-paging-does-not-require-the-operating-system-to-allocate-the/
+
+https://github.com/jetsasank/OperatingSystems/blob/master/paging.c
+Most of the code is from ^ link! Authors name is Teja Sasank! I believe that this solution is correct because it has all the thread items needed in order to replicate the producer and consumer problem that I built initially. He is more elaborate about the way he adds things to the buffer then i did by not just using it as an array.
+
+
